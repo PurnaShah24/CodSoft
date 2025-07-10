@@ -30,6 +30,6 @@ To run any of the projects locally:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/codsoft.git
+   git clone https://github.com/PurnaShah24/codsoft.git
    cd codsoft
 
