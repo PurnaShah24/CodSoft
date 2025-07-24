@@ -17,9 +17,9 @@ This repository contains all the tasks and projects completed as part of my **Py
 | Task No. | Task Title              | Description                                                                 | Status       |
 |----------|-------------------------|-----------------------------------------------------------------------------|--------------|
 | 1        | To-Do List Application  | CLI/GUI app to add, update, track, and delete to-do items.                 | ✅ Completed (8 July) |
-| 2        | Calculator              | Simple calculator using Python with GUI or CLI to perform basic operations.| ⏳ In Progress |
+| 2        | Calculator              | Simple calculator using Python with GUI or CLI to perform basic operations.| ✅ In Progress |
 | 3        | Password Generator      | Generates secure random passwords based on user preferences.               | ⏳ In Progress |
-| 4        | Rock-Paper-Scissors Game| Classic game against the computer using random choice.                     | ❌ Not Started |
+| 4        | Rock-Paper-Scissors Game| Classic game against the computer using random choice.                     | ✅ Not Started |
 | 5        | Contact Book            | Python-based app to store, update, and manage contact info.                | ❌ Not Started |
 
 > 📌 *Only 3 tasks are required, but completing all is encouraged.*
